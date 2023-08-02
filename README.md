@@ -1,2 +1,1 @@
-# Wrx
-# Hello World!
+# …
